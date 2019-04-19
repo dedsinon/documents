@@ -1,16 +1,9 @@
-<style>
-    h2 {
-        color: #57595D;
-        font-weight: 700;
-    }
-
-</style>
-
 # Documentations
 
 A compiled documentations and source informations about the Workflow, Development & Best Practices, Tools, Learning and Other References that is used for development.
 
 ## Workflow
+To be continued . . .
 
 ## Development & Best Practice
 
@@ -39,7 +32,10 @@ A compiled documentations and source informations about the Workflow, Developmen
     * EMMET
 
 ## Tools
+To be continued . . .
 
 ## Learning
+To be continued . . .
 
 ## Other References
+To be continued . . .
