@@ -3,7 +3,8 @@
 A compiled documentations and source informations about the Workflow, Development & Best Practices, Tools, Learning and Other References that is used for development.
 
 ## Workflow
-To be continued . . .
+* Template Apps
+    * [React-Redux-App](https://github.com/dedsinon/react-redux-app.git)
 
 ## Development & Best Practice
 
@@ -35,7 +36,7 @@ To be continued . . .
 To be continued . . .
 
 ## Learning
-To be continued . . .
+* [Jacasvript]()
 
 ## Other References
 To be continued . . .
