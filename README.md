@@ -36,7 +36,7 @@ A compiled documentations and source informations about the Workflow, Developmen
 To be continued . . .
 
 ## Learning
-* [Jacasvript]()
+* [Javascript Es6](https://github.com/dedsinon/documents/blob/master/src/modules/javascript/index.md)
 
 ## Other References
 To be continued . . .
